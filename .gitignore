@@ -1,0 +1,7 @@
+.DS_Store
+.git
+aind-sudoku
+my-aind-sudoku
+my-aind-isolation
+__pycache__
+*.pyc
